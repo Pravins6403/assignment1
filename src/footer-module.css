@@ -1,0 +1,18 @@
+.footer{
+    position: absolute;
+width: 113px;
+height: 30px;
+left: 232px;
+top: 4545px;
+
+font-family: 'Lekton';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 35px;
+/* or 103% */
+
+
+color: #1A1A1A;
+
+}

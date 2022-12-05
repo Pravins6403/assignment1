@@ -1,0 +1,110 @@
+.happy{
+    /* Happy Clients */
+
+
+position: absolute;
+width: 286px;
+height: 60px;
+left: 577px;
+top: 3570px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+
+text-align: center;
+
+color: #1F1F26;
+}
+.happy1{
+position: absolute;
+width: 551px;
+height: 56px;
+left: 445px;
+top: 3640px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #426666;
+}
+.fa{
+    position: absolute;
+width: 62px;
+height: 62px;
+left: 232px;
+top: 3779px;
+
+/* h */
+
+background: linear-gradient(209.43deg, #9E2692 12.36%, #FAA958 89.4%);
+box-shadow: 20px 25px 50px rgba(181, 33, 0, 0.1);
+}
+.fatext{
+    position: absolute;
+width: 477px;
+height: 144px;
+left: 232px;
+top: 3861px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 500;
+font-size: 22px;
+line-height: 36px;
+/* or 164% */
+
+
+color: #6D6D6D;
+}
+.man7{
+    position: absolute;
+width: 345px;
+height: 476px;
+left: 863px;
+top: 3766px;
+
+background: url();
+}
+.name2{
+    position: absolute;
+width: 161px;
+height: 30px;
+left: 232px;
+top: 4010px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #1C1C1D;
+}
+.nametext{
+position: absolute;
+width: 132px;
+height: 19px;
+left: 232px;
+top: 4040px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #9C988F;
+}

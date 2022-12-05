@@ -1,0 +1,488 @@
+.feature{
+    position: absolute;
+width: 1440px;
+height: 604px;
+left: 0px;
+top: 1031px;
+position: absolute;
+width: 489px;
+height: 60px;
+left: 476px;
+top: 150%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+
+text-align: center;
+
+color: #1F1F26;
+}
+/* Join thousands of marketers and entrepreneurs for a 2-day event at the forefront of social commerce. */
+
+.solutiontext{
+    position: absolute;
+width: 551px;
+height: 56px;
+left: -35px;
+top: 82px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #426666;
+}
+.feature1{
+    position: absolute;
+    text-align: start;
+width: 113px;
+height: 18px;
+left: -45px;
+top: 328px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+
+letter-spacing: 0.2em;
+text-transform: uppercase;
+
+color: #B33CDB;
+}
+.influencer{
+
+position: absolute;
+text-align: start;
+width: 321px;
+height: 40px;
+left: -46px;
+top: 354px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 40px;
+/* identical to box height, or 133% */
+
+
+color: #1F1F26;
+}
+.influtext{
+    position: absolute;
+   text-align: start;
+width: 321px;
+height: 40px;
+left: -46px;
+top: 400px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+letter-spacing: 0.01em;
+
+color: #426666;
+}
+.influtext1{
+    position: absolute;
+width: 321px;
+height: 40px;
+left: -143px;
+top: 500px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+letter-spacing: 0.01em;
+
+color: #42424A;
+}
+.influimg{
+    position: absolute;
+width: 240.48px;
+height: 282px;
+left: 950px;
+top: 293px;
+
+background: #FFFFFF;
+/* d */
+
+box-shadow: -8px 30px 80px -25px rgba(82, 82, 82, 0.1);
+border-radius: 8px;
+/* Rectangle 40 */
+
+position: absolute;
+width: 198.96px;
+height: 151.38px;
+left: 470.76px;
+top: 390.2px;
+
+background: url();
+border-radius: 4px;
+
+}
+.ladyimg{
+    position: absolute;
+width: 42.39px;
+height: 42.39px;
+left: 470.76px;
+top: 300.06px;
+
+background: #FFFFFF;
+}
+.heart{
+position: absolute;
+width: 42.39px;
+height: 42.39px;
+left: 95.79%;
+right: 38.29%;
+top: 910.99%;
+bottom: 9%;
+
+background: #FFFFFF;
+}
+.feafturtext{
+    position: absolute;
+width: 100px;
+height: 24px;
+left: 520px;
+top: 555px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #171717;
+}
+.line{
+position: absolute;
+width: 64.01px;
+height: 6.92px;
+left: 580.58px;
+top: 301.65px;
+
+background: #E0E0E6;
+border-radius: 7px;
+
+}
+.line2{
+    position: absolute;
+    width: 120px;
+    height: 6px;
+    left: 580.58px;
+    top: 321px;
+    
+    background: #E0E0E6;
+    border-radius: 7px;  
+}
+.line3{
+position: absolute;
+width: 94px;
+height: 5px;
+left: 580.58px;
+top: 334px;
+
+background: #E0E0E6;
+border-radius: 7px;
+}
+.arrow{
+    position: absolute;
+left: 0%;
+right: 70%;
+top: 800%;
+bottom: 0%;
+
+background: #42424A;
+}
+.elips{
+    position: absolute;
+width: 267px;
+height: 200px;
+left: -30px;
+top: 550px;
+
+background: #f9f9f9;
+/* d */
+
+box-shadow: -8px 30px 80px -25px rgba(82, 82, 82, 0.1);
+}
+.elipsimg{
+    /* Ellipse 22 */
+
+
+position: absolute;
+width: 40.92px;
+height: 10.92px;
+left: -30px;
+top: 950px;
+
+background: url();
+}
+.manelip{
+    position: absolute;
+    width: 44.85px;
+    height: 44.85px;
+    left: -100.08px;
+    top: 730px;
+    
+    background: url();
+}
+.manelip2{
+    position: absolute;
+width: 40.31px;
+height: 53.31px;
+left: 90.85px;
+top: 620.85px;
+
+background: url();
+}
+.manimg3{
+    position: absolute;
+width: 44px;
+height: 44px;
+left: 240px;
+top: 730px;
+
+background: url();
+}
+.manimg4{
+position: absolute;
+width: 0px;
+height: 60.08px;
+left: 210.46px;
+top: 950.46px;
+
+background: url();
+}
+.people{
+    position: absolute;
+left: 0%;
+right: 40%;
+top: 1350.98%;
+bottom: 0%;
+
+background: #000000;
+}
+.community{
+    position: absolute;
+    
+width: 113px;
+height: 18px;
+left: 450px;
+top: 680px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+
+letter-spacing: 0.2em;
+text-transform: uppercase;
+
+color: #FBBA33;
+}
+.influtext2{
+    
+position: absolute;
+text-align: start;
+width: 340px;
+height: 84px;
+left:450px;
+top: 750px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+letter-spacing: 0.01em;
+
+color: #426666;
+}
+.arrow2{
+    position: absolute;
+    left: 120%;
+    right: 80%;
+    top: 1380%;
+    bottom: 0%;
+    
+    background: #42424A;
+}
+.learnmore2{
+    position: absolute;
+    width: 321px;
+    height: 40px;
+    left: 380px;
+    top: 850px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    
+    letter-spacing: 0.01em;
+    
+    color: #42424A;
+   
+}
+.Commuting{
+    position: absolute;
+width: 351px;
+height: 40px;
+left: 420px;
+top: 707px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 40px;
+/* identical to box height, or 133% */
+
+
+color: #1F1F26;
+}
+.service{
+    position: absolute;
+width: 89px;
+height: 18px;
+left: -50px;
+top: 1140px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+
+letter-spacing: 0.2em;
+text-transform: uppercase;
+
+color: #771272;
+}
+.servicetext{
+    position: absolute;
+width: 281px;
+height: 40px;
+left: -76px;
+top: 1160px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 40px;
+/* identical to box height, or 133% */
+
+
+color: #1F1F26;
+}
+.servicetext2{
+    position: absolute;
+    text-align: start;
+width: 354px;
+height: 84px;
+left: -50px;
+top: 1203px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+letter-spacing: 0.01em;
+
+color: #426666;
+}
+.graph{
+    position: absolute;
+width: 268.72px;
+height: 296.93px;
+left: 451px;
+top: 1100px;
+
+background: #FFFFFF;
+}
+.learnmore3{
+    position: absolute;
+    width: 321px;
+    height: 40px;
+    left: 380px;
+    top: 1160px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    
+    letter-spacing: 0.01em;
+    
+    color: #42424A;
+
+}
+.learn{
+    position: absolute;
+    width: 321px;
+    height: 40px;
+    left: -150px;
+    top: 1300px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+
+color: #42424A;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.arrow3{
+    position: absolute;
+left: 0%;
+right: 70%;
+top: 2125%;
+bottom: 0%;
+
+background: #42424A;
+}
